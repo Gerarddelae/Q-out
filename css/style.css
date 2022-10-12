@@ -66,6 +66,10 @@ a {
   text-decoration: none;
 }
 
+div > a:hover {
+  transform: scale(1.05);
+}
+
 
 
 .autor p {
